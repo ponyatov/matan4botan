@@ -1,0 +1,4 @@
+git make curl rsync
+code meld doxygen
+d-apt-keyring dmd-compiler dmd-tools dub
+clang-format g++
